@@ -1,3 +1,3 @@
 User-agent: *
 Allow:/
-Sitemap: https://marinelifeface.netlify.app/
+Sitemap: https://marinelifeface.netlify.app/sitemap.xml
