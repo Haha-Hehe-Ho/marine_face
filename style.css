@@ -373,3 +373,10 @@ color: #20b2aa;
 .navbar-light .navbar-brand {
     color: #20b2aa;
 }
+.ad-banner{
+	width=320px;
+	margin: 0 auto;
+}
+img, svg {
+    width: 40%;
+}
